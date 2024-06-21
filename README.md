@@ -8,6 +8,7 @@ Among these models are GPT4, Mistral AI, Claude, Gemini, Stable Diffusion and ot
 
 
 Multi-Model AI Chat
+![hcryEUfwRqikBodchhIJlQ](https://github.com/DeusAcc/aispica/assets/146327109/cddf1b52-b2a2-41b7-b129-95cd7ed3af9e)
 AiSpica uses all the latest AI models in one App, Chat with GPT4, Claude, Gemini, Mistral, Perplexity and other AI models in the same single chat to discover a new way to communicate with AI.
 
 Create amazing images
