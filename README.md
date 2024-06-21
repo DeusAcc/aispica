@@ -1,6 +1,9 @@
 All artificial intelligence features in a single App
 AiSpica is based on multiple Artificial Intelligence models, integrating many features into a single App.
 
+![1718806933033](https://github.com/DeusAcc/aispica/assets/146327109/48febadf-ecad-4f2d-b5a7-a81bce91a54c)
+
+
 Among these models are GPT4, Mistral AI, Claude, Gemini, Stable Diffusion and others...
 
 
@@ -18,7 +21,7 @@ AI Auto Social Media
 Create posts automatically with AI on AiSpica, grow your social media accounts fast with the help of AiSpica.
 
 
-Advanced AI Scan
+Advanced AI Scan!
 Scanning photos and videos has become extremely easy with artificial intelligence, use the AiSpica app to do advanced scanning of animals, plants, objects, texts and people, thus obtaining detailed results.
 
 
